@@ -190,7 +190,7 @@ for (let i=0;i<ratings.length;i++){
 
         }
     }
-    console.log(result,ratings[i].name)
+    console.log("Id :",ratings[i].id,"|","Rating :",result,"|",ratings[i].rate,"|",ratings[i].name)
 }
 
 
